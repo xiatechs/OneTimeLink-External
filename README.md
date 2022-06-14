@@ -1,6 +1,6 @@
 # Sharing Sensitive Information with Xiatech
 
-Welcome from Xiatech, you have been given this guide as someone from Xiatech has requested some potentially private or sensititve information. By following this guide you will use Xiatechs Onetime-link to share information in an encrypted and secure way.
+Welcome from Xiatech, you have been given this guide as someone from Xiatech has requested some potentially private or sensitive information. By following this guide, you will use Xiatechs Onetime-link to share information in an encrypted and secure way.
 
 Please follow the steps below.
 
@@ -8,11 +8,11 @@ Please follow the steps below.
 
 ## Sharing links
 
-When sharing our links please be aware that once they are opened by anyone, they will not be retreiveable again. The links and the information inside are truely "one time" and if it is accidently clicked or used, you will have to re encrypt a message. 
+When sharing our links, please be aware that once they are opened by anyone, they will not be retrievable again. The links and the information inside are truly "one time" and if it is accidentally clicked or used, you will have to re encrypt the message. 
 
 ## Security
 
-We advise that you send you do not post these links to public forum's or spaces, especially decrytion keys, for if someone has access to the decrytion key they will be able to unencrypt your message. So please take utmost care that when you share this link/key with a Xiatech employee, it is sent on the most secure channel available.
+We advise that you send you do not post these links to public forum's or spaces, especially decryption keys, for if someone has access to the decryption key they will be able to unencrypt your message. So please take utmost care that when you share this link/key with a Xiatech employee, it is sent on the most secure channel available.
 
 ----
 # Instructions
@@ -25,16 +25,14 @@ This section covers the first step of encrypting your message and the options th
   
 - Enter the sensitive information you want to encrypt in the top box
 
-- Set the time the encrypted message will be deleted automatically on. For this setting we suggest 24 hours/One day.
+- Set the time the encrypted message will be deleted automatically on. For this setting, we suggest 24 hours/One day.
 
 - Ensure one-time download and generate decryption key are both ticked.
 
 Your screen should resemble the below image:
 
 
-
-
-
+[](Encryption.png)
 
 ## Sharing your message
 
@@ -42,10 +40,13 @@ This section covers sending of the link/decryption keys:
 
 You will be presented with three copyable items:
 
-- One-click link (we do not reccomend you use this)
+- One-click link (we do not recommend you use this)
   
 - Short link 
 
 - Decryption key
 
-Please copy the short link and decryption key and send these to the Xiatech employee who requested the sensitive information. Once they use the decryption key to see your message, it will be destroyed immediately forever!
+[](Secret%20Sharing.png)
+
+Please copy the short link and decryption key and send these to the Xiatech employee who requested the sensitive information. Once they use the decryption key to see your message, it will be destroyed immediately, forever!
+
