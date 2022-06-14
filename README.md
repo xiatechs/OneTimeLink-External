@@ -32,7 +32,7 @@ This section covers the first step of encrypting your message and the options th
 Your screen should resemble the below image:
 
 
-[](Encryption.png)
+![](Encryption.png)
 
 ## Sharing your message
 
@@ -46,7 +46,7 @@ You will be presented with three copyable items:
 
 - Decryption key
 
-[](Secret%20Sharing.png)
+![](Secret%20Sharing.png)
 
 Please copy the short link and decryption key and send these to the Xiatech employee who requested the sensitive information. Once they use the decryption key to see your message, it will be destroyed immediately, forever!
 
