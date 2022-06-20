@@ -40,7 +40,7 @@ This section covers sending of the link/decryption keys:
 
 You will be presented with three copyable items:
 
-- One-click link (we do not recommend you use this)
+- One-click link (*we do not recommend you use this)
   
 - Short link 
 
@@ -48,5 +48,14 @@ You will be presented with three copyable items:
 
 ![](Secret%20Sharing.png)
 
-Please copy the short link and decryption key and send these to the Xiatech employee who requested the sensitive information. Once they use the decryption key to see your message, it will be destroyed immediately, forever!
 
+Note: Please send the information ESPECIALLY the decryption key via a secure channel, if these are posted in an incorrect forum anyone could use the link and decryption key to see your message.
+
+Copy the short link and decryption key and send these to the Xiatech employee who requested the sensitive information. Once they use the decryption key to see your message, it will be destroyed immediately, forever!
+
+\*We do not reccomend sending the One-click link as from experience is prone to accidental clicking or clicking before the information is ready to be recieved. This results in having to re-encypt and send the message again.
+
+---
+
+
+Thank you from us here at Xiatech for using our One-time link! 
